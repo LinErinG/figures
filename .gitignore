@@ -1,3 +1,6 @@
-D7fig_DEM.jpg
+*.jpg
 *.png
+*.eps
+*.ps
+*.pdf
 *.docx
